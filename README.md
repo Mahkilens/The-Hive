@@ -18,4 +18,3 @@ This repository focuses on custom site structure and WordPress-related project a
 ## Structure
 - /themes → custom UI
 - /plugins → required plugins
->>>>>>> 72751fd (Initial commit - themes and plugins)
