@@ -1,0 +1,6 @@
+wp-config.php
+.env
+nod_modules/
+uploads/
+*.log
+.DS_Store 
